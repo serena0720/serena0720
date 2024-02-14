@@ -11,9 +11,9 @@
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/XCode-147EFB?style=flat-square&logo=xcode&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
 ### 🧡 About Serena(송현아)
-🌱 특유의 **성실함**으로 무섭게 성장해나가고 있는 개발자입니다. <br>
+🌱 **성실함**으로 무섭게 성장해나가고 있는 개발자입니다. <br>
 
-🌱 주위 사람들에게 편안하게 다가가 **소통**을 원활하게 이끌어냅니다.
+🌱 주위 사람들과 **소통**을 원활하게 이끌어냅니다.
 
 ### 💛 Education
 🎓 한성대학교 의류패션학과 졸업 2015.03. ~ 2019.08 <br>
