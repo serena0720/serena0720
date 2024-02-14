@@ -3,7 +3,7 @@
 <div align="center">
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=serena0720&show_icons=true&theme=onedark&hide="/>
-<img align="right" width="50%" src="http://mazassumnida.wtf/api/generate_badge?boj=sha0720"/></a>
+<img align="right" width="50%" src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=sha0720"/></a>
 
 
 <div align="left" width="50%">
