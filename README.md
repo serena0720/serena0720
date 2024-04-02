@@ -10,15 +10,15 @@
   
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/XCode-147EFB?style=flat-square&logo=xcode&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
-### 🧡 About Serena(송현아)
+### About Serena(송현아)
 🌱 **성실함**으로 무섭게 성장해나가고 있는 개발자입니다. <br>
 
 🌱 주위 사람들과 **소통**을 원활하게 이끌어냅니다.
 
-### 💙 Activity
+### Activity
 🌊 Mash-Up 2024.03 ~ 
 
-### 💛 Education
+### Education
 🏫 야곰아카데미 2023.04 ~ 2023.10 <br>
 
 🏫 IOS 앱 제작 SWIFT프로그래밍 2022.07 ~ 2022.10<br>
@@ -28,8 +28,7 @@
                        
 🎓 부천여자고등학교 졸업 2011.03 ~ 2014.02<br>
 
-### ❤️ Study
-🐻 HongDaeroMoiSi-jo 2023.04 ~ 2023.09
-> 매주 토요일 실험 주제를 정하여 다같이 실험해보는 스터디
+### Study
+🐻 [HongDaeroMoiSi-jo](https://github.com/HongDaeroMoiSi-jo/weekendStudy) 2023.04 ~ 2023.09
 
 </div>
