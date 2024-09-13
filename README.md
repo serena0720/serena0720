@@ -15,12 +15,15 @@
 
 🌱 주위 사람들과 **소통**을 원활하게 이끌어냅니다.
 
+### Project
+🍞 [PIC](https://github.com/mash-up-kr/gabbangzip-iOS) 우리만의 기억, 네컷에 담아요 2024.04 ~ 2024.10
+
 ### Activity
 🕊️ Let'Swift 2024 오거나이저 2024.03 ~
 
-🌊 Mash-Up 활동 2024.03 ~ 
+🌊 Mash-Up iOS 2024.03 ~ 
 
-🐻 야곰아카데미 서포터즈 활동 2023.10 ~ 2024.03
+🐻 야곰아카데미 서포터즈 2023.10 ~ 2024.03
 
 ### Education
 🏫 야곰아카데미 커리어스타터 수료 2023.04 ~ 2023.10 <br>
@@ -33,6 +36,12 @@
 🎓 부천여자고등학교 졸업 2011.03 ~ 2014.02<br>
 
 ### Study
+💙 TCA Study 2024.04 ~ 2024.08
+
+🍞 [Vanilla SwiftUI vs. TCA Navigation Mash-Up 세미나 발표](https://github.com/mash-up-kr/iOS_Seminar/tree/main/14th/Team_Study/Gabbangzip) 2024.06
+
+🔗 [Combine Study](https://github.com/serena0720/TestAppForCombine) 2024.04 ~ 2024.07
+
 🐻 [HongDaeroMoiSi-jo](https://github.com/HongDaeroMoiSi-jo/weekendStudy) 2023.04 ~ 2023.09
 
 </div>
