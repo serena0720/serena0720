@@ -17,6 +17,9 @@
 
 ### Project
 🍞 [PIC](https://github.com/mash-up-kr/gabbangzip-iOS) 우리만의 기억, 네컷에 담아요 2024.05 ~ 2024.10
+> 🔗 [앱 스토어 다운로드](https://apps.apple.com/kr/app/PIC/id6503334452)
+
+🕊️ [Let'Swift 2024](https://github.com/letswiftconf/LetSwift) 컨퍼런스 안내 앱 2024.09
 
 ### Activity
 🕊️ Let'Swift 2024 오거나이저 2024.03 ~
