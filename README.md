@@ -41,7 +41,7 @@
 ### Study
 💙 [TCA Study](https://saber-bobcat-047.notion.site/TCA-Study-11b1bb10dfcb80d188b6f36543c09eb3?pvs=4) 2024.03 ~ 2024.06
 
-🍞 [Vanilla SwiftUI vs. TCA Navigation Mash-Up 세미나 발표](https://github.com/mash-up-kr/iOS_Seminar/tree/main/14th/Team_Study/Gabbangzip) 2024.06
+🍞 [Vanilla SwiftUI vs. TCA Navigation Mash-Up 세미나 발표](https://github.com/serena0720/NavigationCookbook/tree/main) 2024.06
 
 ✏️ [Stanford 2023 SwiftUI Study](https://github.com/serena0720/stanford2023) 2024.04 ~ 2024.06
 
