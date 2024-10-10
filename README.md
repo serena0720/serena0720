@@ -43,6 +43,8 @@
 
 🍞 [Vanilla SwiftUI vs. TCA Navigation Mash-Up 세미나 발표](https://github.com/mash-up-kr/iOS_Seminar/tree/main/14th/Team_Study/Gabbangzip) 2024.06
 
+✏️ [Stanford 2023 SwiftUI Study](https://github.com/serena0720/stanford2023) 2024.04 ~ 2024.06
+
 🔗 [Combine Study](https://github.com/serena0720/TestAppForCombine) 2024.04 ~ 2024.07
 
 🐻 [HongDaeroMoiSi-jo](https://github.com/HongDaeroMoiSi-jo/weekendStudy) 2023.04 ~ 2023.09
